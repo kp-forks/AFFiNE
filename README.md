@@ -2,37 +2,45 @@
 
 <h1 style="border-bottom: none">
     <b><a href="https://affine.pro">AFFiNE.PRO</a></b><br />
-    The Next-Gen Collaborative Knowledge Base
+    Write, Draw and Plan All at Once
     <br>
 </h1>
 
 <p>
-    AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together.<br />
-    Privacy first, open-source, customizable and ready to use - a free replacement for Notion & Miro. <br />
+  One hyper-fused platform for wildly creative minds. <br />
+  A privacy-focussed, local-first, open-source, and ready-to-use alternative for Notion & Miro.
 </p>
 
-<div>
-<!--
-Make New Badge Pattern badges inline
-See https://github.com/all-?/all-contributors/issues/361#issuecomment-637166066
--->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[all-contributors-badge]: https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-[![affine.pro](https://img.shields.io/static/v1?label=live%20demo&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAhpJREFUWEdjZEACtnl3MxgY/0YzMjAaMzAwcCLLUYH9/T/D/7MM/5mXHp6kPANmHiOI4Zx9Xfg3C+tKBob/zlSwiAgjGPey/vkdvneq5luwA+zy7+yhn+Vwv+89NFHFhREU7IyM/6YT4WyqK/n/nymT0Tb/1mFGBkYbqptOhIH/Gf4fYbTLv/2NBgmOCOvBSr6DHPCfWNW0UEe2A2x1uRlakiXBbtpx6jND+7KXZLmPbAdURokzeJjxwi31rrzH8OX7P5IdQbYDtnUoMXBzMMEt7Fj2imH7qU/0cQBy8MNsPHL5K0P13Of0cQB68MNsJScaSI4CHk4mhq3tSnCf3n36k0FZmh3Mn7L+DcPqgx9ICgWSHeBpxsdQESUGtgRk+eqDH+H8O09/MiR3P6atA1qTJRlsdLnhPgYlPOQQCW96wPDi3R+iHUFSCKAHP8wydEeREg0kOQA9+JOgwR1qL8CQEygC9jWp0UCSA+aVysIT3JqDHxgmr38DtlRCiIVhZZ0CPNhB6QDkEGIA0Q4gZAkuxxFyBNEOQA7ml+/+MIQ1PUAxG1kelAhB6YMYQLQDCPmQUAjhcgxRDiDWcEKOxOYIohyQGyjCEGIvANaPLfhhBiNHA6hmBBXNhABRDgCV/aBQAAFQpYMrn4PUgNTCACiXEMoNRDmAkC8okR8UDhjYRumAN8sHvGMCSkAD2jUDOWDAO6ewbDQQ3XMAy/oxKownQR0AAAAASUVORK5CYII=&color=orange&message=→)](https://livedemo.affine.pro)
-[![stars](https://img.shields.io/github/stars/toeverything/AFFiNE.svg?style=flat&logo=github&colorB=red&label=stars)](https://github.com/toeverything/AFFiNE)
-[![All Contributors][all-contributors-badge]](#contributors)
-[![Node](https://img.shields.io/badge/node->=16.0-success)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/TypeScript-4.7-3178c6)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-18-61dafb)](https://reactjs.org/)
-[![Rust](https://img.shields.io/badge/Rust-1.62-dea584)](https://www.rust-lang.org/)
 </div>
 
-<div>
-    <a href="http://affine.pro"><img src="https://img.shields.io/badge/-AFFiNE-06449d?style=social&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEsAAABLCAMAAAAPkIrYAAAAP1BMVEU8b9w8b9w+b947cNw7b9w6b908b909b9w8b9w7b9w8b9w7cN08b9w7b908b9w7b9w8b907cNw8b9w8b91HcEx3NJCJAAAAFXRSTlP/3QWSgA+lHPlu6Di4XtIrxk/xRADGudUoAAAB9UlEQVR42tWYwbKjIBREG0GJKkRj/v9bZ1ZvRC99rzib11tTB9qqnKoW3/+X38vy7ifzQ1b/wk/8Q1bCv3y6Z6wFh2x2llIRGB6xRhzz6p+wVhRJD1gRZZYHrADYSyqsjFPGZtYbuFESesUysZXlcMnYyJpxTW5keQh5N7G6CUJCE2uHFNfEGiBmbmB1H4jxDawNcqbuPmtAJTtj6RZ0lpIwiR5jNmgfNtHHwLXPWfFYcS2NMdxkjac/dNaNCJPo3yf9pFuseHbDrBsRFguGs8te8Q4rXzTjVSPCIHp3FePKWbzi30xE+4zlBMmoJaGLfpLUmAmLiN4Xyibahy76WZRQMLJ2WX27on2oFvQVac8yi4p+J2forA0V8W1c++AVS1f1H6p9KKLHxk9RWKmsyB+VLC76gV65DLjokdg5KmsEMXsiDwXWSmTc9ezSoKJHoi9zUVihbMHfQOSsXB7Mrz1S1huKPde69sEsiKgNt8hYTjiWlAyENeu7IFe1D15RSEBN+yCiXw17K1RZm/w7UtJVWYN8f1ZyLlkVb2bT4vIVVrINH1dqX2YttkHmIWsfVWs646wcRFYis6fIVGpfYq1kjpGSW8kSRD+xYSmXRM0Ang9eSZioVdy/5pWaLqzIRyIpuVxYozvGf1m67I7pf/s3UXv+AP61NI2Y+BbSAAAAAElFTkSuQmCC" height=25></a>
+<div align="center">
+
+[![AFFiNE Web](<https://img.shields.io/badge/-Try%20It%20Online%20%E2%86%92-rgb(84,56,255)?style=flat-square&logoColor=white&logo=affine>)](https://app.affine.pro)
+[![AFFiNE macOS M1/M2 Chip](https://img.shields.io/badge/-macOS_M_Chip%20%E2%86%92-black?style=flat-square&logo=apple&logoColor=white)](https://affine.pro/download)
+[![AFFiNE macOS x64](https://img.shields.io/badge/-macOS_x86%20%E2%86%92-black?style=flat-square&logo=apple&logoColor=white)](https://affine.pro/download)
+[![AFFiNE Window x64](https://img.shields.io/badge/-Windows%20%E2%86%92-blue?style=flat-square&logo=windows&logoColor=white)](https://affine.pro/download)
+[![AFFiNE Linux](https://img.shields.io/badge/-Linux%20%E2%86%92-yellow?style=flat-square&logo=linux&logoColor=white)](https://affine.pro/download)
+
+[![Releases](https://img.shields.io/github/downloads/toeverything/AFFiNE/total)](https://github.com/toeverything/AFFiNE/releases/latest)
+[![stars-icon]](https://github.com/toeverything/AFFiNE)
+[![All Contributors][all-contributors-badge]](#contributors)
+[![codecov]](https://codecov.io/gh/toeverything/AFFiNE)
+[![Node-version-icon]](https://nodejs.org/)
+[![TypeScript-version-icon]](https://www.typescriptlang.org/)
+[![React-version-icon]](https://reactjs.org/)
+[![blocksuite-icon]](https://github.com/toeverything/blocksuite)
+[![Rust-version-icon]](https://www.rust-lang.org/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftoeverything%2FAFFiNE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftoeverything%2FAFFiNE?ref=badge_shield)
+[![Deploy](https://github.com/toeverything/AFFiNE/actions/workflows/deploy.yml/badge.svg)](https://github.com/toeverything/AFFiNE/actions/workflows/deploy.yml)
+
+</div>
+
+---
+
+<div align="center">
+    <a href="http://affine.pro"><img src="https://img.shields.io/badge/-AFFiNE-06449d?style=social&logo=affine" height=25></a>
+    &nbsp;
+    <a href="https://community.affine.pro"><img src="https://img.shields.io/badge/-Community-424549?style=social&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAXNJREFUWEftlitLRUEURtdVEVExWUx2qxgNVouoXYtNDP4Tw20WtftAsItZrHaTYBJREZ98MAc248wcZxi4CGfSeezHmm/23kyPAa/egPPTAXQK/FsFBP7ldVDRZoqcgO9I+2bHy3ZIJBfTCPCZM1tqAxwBmzUBrNQNbEx+5b0B5oEN4NCBrAMnMaiUAuPAs3HU82TLEZwBqwGbaJ4UgKQ8CFR6SoEl4LIWwCJwZQCegKkWBWLHVKSActvdzgG3DqitDf3/VQBskBDALrDnAKXUo3ueAF5KinAf2DKOmnzD7l214bdbA6hC1XHZNQa8hSBC0hwDa57xDHDvvvWB7ciOZoE79+8CWPbsBGc769eFxJdWIKcuyIdRoG3W7AAC1dJkHDIOo8B78+4rEBo8r4AkLFk6Jk3HaeDBBTgHVmIAfpJUz+cAFXVBreQCvQYW/lqEjV1NAMUMqpAaxQMHyDnjYtuS+0BxstwaqJooFqxToFPgB5FuPCEB6XK2AAAAAElFTkSuQmCC" height=25></a>
     &nbsp;
     <a href="https://discord.com/invite/yz6tGVsf5p"><img src="https://img.shields.io/badge/-Discord-424549?style=social&logo=discord" height=25></a>
     &nbsp;
@@ -44,146 +52,179 @@ See https://github.com/all-?/all-contributors/issues/361#issuecomment-637166066
 </div>
 
 <br />
-<div>
-<em>AFFiNE - just like the word affine (əˈfʌɪn | a-fine).</em>
+<div align="center">
+<em>Docs, canvas and tables are hyper-merged with AFFiNE - just like the word affine (əˈfʌɪn | a-fine).</em>
 </div>
 <br />
 
-<img width="1920" alt="affine_screen" src="https://user-images.githubusercontent.com/4605025/198174913-d4f90da8-ae2a-4eb6-8424-55c94de432a1.jpeg"></div>
+![img_v2_37a7cc04-ab3f-4405-ae9a-f84ceb4c948g](https://user-images.githubusercontent.com/79301703/230892907-5fd5c0c5-1665-4d75-8a35-744e0afc36a5.gif)
 
 ## Join our community
 
-Before we tell you how to get started with AFFiNE, we'd like to shamelessly plug our awesome user and developer communities across [official social platforms](https://docs.affine.pro/affine/community-links/official-communities)! Once you’re familiar with using the software, maybe you will share your wisdom with others and even consider joining the [AFFiNE Ambassador program](https://docs.affine.pro/affine/affine-ambassadors/welcome) to help spread AFFiNE to the world.
+Before we tell you how to get started with AFFiNE, we'd like to shamelessly plug our awesome user and developer communities across [official social platforms](https://community.affine.pro/c/start-here/)! Once you’re familiar with using the software, maybe you will share your wisdom with others and even consider joining the [AFFiNE Ambassador program](https://community.affine.pro/c/start-here/affine-ambassador) to help spread AFFiNE to the world.
 
-## Features
-
-**Privacy focussed** — AFFiNE is built with your privacy in mind and is one of our key concerns. We want you to keep control of your data, allowing you to store it as you like, where you like while still being able to freely edit and view your data on-demand.
-
-**Offline-first** - With your privacy in mind we also decided to go offline-first. This means that AFFiNE can be used offline, whether you want to view or edit, with support for conflict-free merging when you are back online.
-
-**Clean, intuitive design** — With AFFiNE you can concentrate on editing with a clean and modern interface. Which is responsive, so it looks great on tablets too, and mobile support is coming in the future.
-
-**Seamless transitions** — However you want your data displayed, whichever viewing mode you use, AFFiNE supports easy transitions to allow you to quickly and effortlessly view your data in the way you want.
-
-**Markdown support** — When you write in AFFiNE you can use Markdown syntax which helps create an easier editing experience, that can be experienced with just a keyboard. And this allows you to export your data cleanly into Markdown.
-<!--
-**Colloboration** — Whether you want to colloborate with yourself across multiple devices, or work together with others, support for colloboration and multiplayer is out-of-the-box, which makes it easy for teams to get started with AFFiNE.
--->
-**Choice of multiple languages** — Thanks to community contributions AFFiNE offers support for multiple languages. If you don't find your language or would like to suggest some changes we welcome your contributions.
-
-## Getting started
+## Getting started & staying tuned with us.
 
 ⚠️ Please note that AFFiNE is still under active development and is not yet ready for production use. ⚠️
 
-[![affine.pro](https://img.shields.io/static/v1?label=Try%20it%20Online&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAhpJREFUWEdjZEACtnl3MxgY/0YzMjAaMzAwcCLLUYH9/T/D/7MM/5mXHp6kPANmHiOI4Zx9Xfg3C+tKBob/zlSwiAgjGPey/vkdvneq5luwA+zy7+yhn+Vwv+89NFHFhREU7IyM/6YT4WyqK/n/nymT0Tb/1mFGBkYbqptOhIH/Gf4fYbTLv/2NBgmOCOvBSr6DHPCfWNW0UEe2A2x1uRlakiXBbtpx6jND+7KXZLmPbAdURokzeJjxwi31rrzH8OX7P5IdQbYDtnUoMXBzMMEt7Fj2imH7qU/0cQBy8MNsPHL5K0P13Of0cQB68MNsJScaSI4CHk4mhq3tSnCf3n36k0FZmh3Mn7L+DcPqgx9ICgWSHeBpxsdQESUGtgRk+eqDH+H8O09/MiR3P6atA1qTJRlsdLnhPgYlPOQQCW96wPDi3R+iHUFSCKAHP8wydEeREg0kOQA9+JOgwR1qL8CQEygC9jWp0UCSA+aVysIT3JqDHxgmr38DtlRCiIVhZZ0CPNhB6QDkEGIA0Q4gZAkuxxFyBNEOQA7ml+/+MIQ1PUAxG1kelAhB6YMYQLQDCPmQUAjhcgxRDiDWcEKOxOYIohyQGyjCEGIvANaPLfhhBiNHA6hmBBXNhABRDgCV/aBQAAFQpYMrn4PUgNTCACiXEMoNRDmAkC8okR8UDhjYRumAN8sHvGMCSkAD2jUDOWDAO6ewbDQQ3XMAy/oxKownQR0AAAAASUVORK5CYII=&message=%E2%86%92&style=for-the-badge)](https://affine.pro) No installation or registration required! Head over to our website and try it out now.
+[![affine.pro](https://img.shields.io/static/v1?label=Try%20it%20Online&logo=affine&message=%E2%86%92&style=for-the-badge)](https://app.affine.pro) No installation or registration required! Head over to our website and try it out now.
 
-[AFFiNE Documentation](https://docs.affine.pro/affine/) - More detailed documentation on how to use and develop with AFFiNE
+[![community.affine.pro](https://img.shields.io/static/v1?label=Join%20the%20community&message=%E2%86%92&style=for-the-badge)](https://community.affine.pro) Our wonderful community, where you can meet and engage with the team, developers and other like-minded enthusiastic user of AFFiNE.
 
-[Our official communities](https://docs.affine.pro/affine/community-links/official-communities) - Join our friendly communities for more support and discussions
+Star us, and you will receive all releases notifications from GitHub without any delay!
+![rbU3YmmsQT](https://user-images.githubusercontent.com/79301703/230891830-0110681e-8c7e-483b-b6d9-9e42b291b9ef.gif)
+
+## Features
+
+- **Hyper merged** — Write, draw and plan all at once. Assemble any blocks you love on any canvas you like to enjoy seamless transitions between workflows with AFFiNE.
+- **Privacy focussed** — AFFiNE is built with your privacy in mind and is one of our key concerns. We want you to keep control of your data, allowing you to store it as you like, where you like while still being able to freely edit and view your data on-demand.
+- **Offline-first** — With your privacy in mind we also decided to go offline-first. This means that AFFiNE can be used offline, whether you want to view or edit, with support for conflict-free merging when you are back online.
+- **Clean, intuitive design** — With AFFiNE you can concentrate on editing with a clean and modern interface. Which is responsive, so it looks great on tablets too, and mobile support is coming in the future.
+- **Modern Block Editor with Markdown support** — A modern block editor can help you not only for docs, but slides and tables as well. When you write in AFFiNE you can use Markdown syntax which helps create an easier editing experience, that can be experienced with just a keyboard. And this allows you to export your data cleanly into Markdown.
+- **Collaboration** — Whether you want to collaborate with yourself across multiple devices, or work together with others, support for collaboration and multiplayer is out-of-the-box, which makes it easy for teams to get started with AFFiNE.
+- **Choice of multiple languages** — Thanks to community contributions AFFiNE offers support for multiple languages. If you don't find your language or would like to suggest some changes we welcome your contributions.
+
+![img_v2_3a4ee0da-6dd7-48cb-8f19-5411f86768ag](https://user-images.githubusercontent.com/79301703/230893796-dc707955-e4e5-4a42-a3c9-18d1ea754f6f.gif)
 
 ## Contributing
 
+| Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions/Discussions                                                         | AFFiNE Community                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [Create a bug report](https://github.com/toeverything/AFFiNE/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/toeverything/AFFiNE/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Check GitHub Discussion](https://github.com/toeverything/AFFiNE/discussions) | [Vist the AFFiNE Community](https://community.affine.pro) |
+| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | Discuss and ask questions                                                     | A place to ask, learn and engage with others              |
+
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
 
-For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/toeverything/AFFiNE/issues/new/choose) and choose the most appropiate template for your feedback.
+**Before you start contributing, please make sure you have read and accepted our [Contributor License Agreement]. To indicate your agreement, simply edit this file and submit a pull request.**
 
-For **translation** and **language support** you can visit our docs for the [internationalization guide].(https://docs.affine.pro/affine/internationalization/welcome)
+For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/toeverything/AFFiNE/issues/new/choose) and choose the most appropriate template for your feedback.
 
-Looking for **others ways to contribute** and wondering where to start? Check out the [AFFiNE Ambassador program](https://docs.affine.pro/affine/affine-ambassadors/welcome), we work closely with passionate members of our community and provide them with a wide-range of support and resources. 
+For **translation** and **language support** you can visit our [i18n General Space](https://community.affine.pro/c/i18n-general).
 
-If you have questions, join us across various [**social platforms**](https://docs.affine.pro/affine/community-links/official-communities) where our friendly community can help provide the answers.
+Looking for **others ways to contribute** and wondering where to start? Check out the [AFFiNE Ambassador program](https://community.affine.pro/c/start-here/affine-ambassador), we work closely with passionate community members and provide them with a wide-range of support and resources.
 
-We have done a major refactoring recently, if you want to see our previous version of the code, please go to the [Pre-Alpha](https://github.com/toeverything/AFFiNE/tree/Pre-Alpha) branch to view
+If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [AFFiNE Community](https://community.affine.pro) where you can engage with other like-minded individuals.
 
-## Thanks
+## Ecosystem
+
+| Name                                                                                            |                                         |                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [@toeverything/component](https://github.com/toeverything/design/tree/main/packages/components) | Toeverything Shared Component Resources |                                                                                                                                                     |
+| [@affine/component](packages/frontend/component)                                                | AFFiNE Component Resources              | [![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)](https://affine-storybook.vercel.app/)                          |
+| [@toeverything/y-indexeddb](packages/common/y-indexeddb)                                        | IndexedDB database adapter for Yjs      | [![](https://img.shields.io/npm/dm/@toeverything/y-indexeddb?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/y-indexeddb) |
+| [@toeverything/theme](packages/common/theme)                                                    | AFFiNE theme                            | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme)             |
+
+## Plugins
+
+> Plugins are a way to extend the functionality of AFFiNE. You can use plugins to add new blocks, new features, and even new ways to edit content.
+>
+> (Currently, the plugin system is under heavy development. You will see the plugin system in the canary release.)
+
+- [@affine/sdk](./packages/common/sdk) - SDK for developing plugins
+- [@affine/plugin-cli](./tools/plugin-cli) - CLI for developing plugins
+
+| Official Plugin                                                  | Description                               | Status |
+| ---------------------------------------------------------------- | ----------------------------------------- | ------ |
+| [@affine/copilot-plugin](./packages/plugins/copilot)             | AI Copilot that help you document writing | 🚧     |
+| [@affine/image-preview-plugin](./packages/plugins/image-preview) | Component for previewing an image         | ✅     |
+| [@affine/outline](./packages/plugins/outline)                    | Outline for your document                 | ✅     |
+
+## Upstreams
 
 We would also like to give thanks to open-source projects that make AFFiNE possible:
 
--   [BlockSuite](https://github.com/toeverything/BlockSuite) - AFFiNE is built with and powered by BlockSuite.
--   [Yjs](https://github.com/yjs/yjs) & [Yrs](https://github.com/y-crdt/y-crdt) -- Fundamental support of CRDTs for our implementation on state management and data sync.
--   [React](https://github.com/facebook/react) -- View layer support and web GUI framework.
--   [Rust](https://github.com/rust-lang/rust) -- High performance language that extends the ability and availability of our real-time backend, JWST.
--   [Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki) -- Source code management tool made with CRDTs which inspired our design on block data structure.
--   [slatejs](https://github.com/ianstormtaylor/slate) -- Customizable rich-text editor.
--   [Jotai](https://github.com/pmndrs/jotai) -- Minimal state management tool for frontend.
--   [Tldraw](https://github.com/tldraw/tldraw) -- Excellent drawing board.
--   [MUI](https://github.com/mui/material-ui) -- Our most used graphic UI component library.
--   Other [dependencies](https://github.com/toeverything/AFFiNE/network/dependencies)
-
-We use the following open source projects to help us build a better development experience:
-
--   [nx](https://github.com/nrwl/nx) -- Awesome monorepo manager & build system
--   [tolgee](https://github.com/tolgee/tolgee-platform) -- Elegant i18n collaborative editing platform
+- [blocksuite](https://github.com/toeverything/BlockSuite) - 💠 BlockSuite is the open-source collaborative editor project behind AFFiNE.
+- [OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
+- [yjs](https://github.com/yjs/yjs) - Fundamental support of CRDTs for our implementation on state management and data sync.
+- [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+- [React](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API.
+- [Jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React.
+- [async-call-rpc](https://github.com/Jack-Works/async-call-rpc) - A lightweight JSON RPC client & server.
+- [Vite](https://github.com/vitejs/vite) - Next generation frontend tooling.
+- Other upstream [dependencies](https://github.com/toeverything/AFFiNE/network/dependencies).
 
 Thanks a lot to the community for providing such powerful and simple libraries, so that we can focus more on the implementation of the product logic, and we hope that in the future our projects will also provide a more easy-to-use knowledge base for everyone.
 
-# Contributors
+## Contributors
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/doodlewind"><img src="https://avatars.githubusercontent.com/u/7312949?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Yifeng Wang</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=doodlewind" title="Code">💻</a> <a href="https://github.com/toeverything/AFFiNE/commits?author=doodlewind" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://darksky.eu.org/"><img src="https://avatars.githubusercontent.com/u/25152247?v=4?s=50" width="50px;" alt=""/><br /><sub><b>DarkSky</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=darkskygit" title="Code">💻</a> <a href="https://github.com/toeverything/AFFiNE/commits?author=darkskygit" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://zhangchi.page/"><img src="https://avatars.githubusercontent.com/u/5910926?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Chi Zhang</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=tzhangchi" title="Code">💻</a> <a href="https://github.com/toeverything/AFFiNE/commits?author=tzhangchi" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/alt1o"><img src="https://avatars.githubusercontent.com/u/21084335?v=4?s=50" width="50px;" alt=""/><br /><sub><b>wang xinglong</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=alt1o" title="Code">💻</a> <a href="https://github.com/toeverything/AFFiNE/commits?author=alt1o" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/DiamondThree"><img src="https://avatars.githubusercontent.com/u/24630517?v=4?s=50" width="50px;" alt=""/><br /><sub><b>DiamondThree</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=DiamondThree" title="Code">💻</a> <a href="https://github.com/toeverything/AFFiNE/commits?author=DiamondThree" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://lawvs.github.io/profile/"><img src="https://avatars.githubusercontent.com/u/18554747?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Whitewater</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=lawvs" title="Code">💻</a> <a href="https://github.com/toeverything/AFFiNE/commits?author=lawvs" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/zuoxiaodong0815"><img src="https://avatars.githubusercontent.com/u/53252747?v=4?s=50" width="50px;" alt=""/><br /><sub><b>xiaodong zuo</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=zuoxiaodong0815" title="Code">💻</a> <a href="https://github.com/toeverything/AFFiNE/commits?author=zuoxiaodong0815" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/SaikaSakura"><img src="https://avatars.githubusercontent.com/u/11530942?v=4?s=50" width="50px;" alt=""/><br /><sub><b>MingLIang Wang</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=SaikaSakura" title="Code">💻</a> <a href="https://github.com/toeverything/AFFiNE/commits?author=SaikaSakura" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/QiShaoXuan"><img src="https://avatars.githubusercontent.com/u/22772830?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Qi</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=QiShaoXuan" title="Code">💻</a> <a href="https://github.com/toeverything/AFFiNE/commits?author=QiShaoXuan" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/mitsuhatu"><img src="https://avatars.githubusercontent.com/u/110213079?v=4?s=50" width="50px;" alt=""/><br /><sub><b>mitsuhatu</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=mitsuhatu" title="Code">💻</a> <a href="https://github.com/toeverything/AFFiNE/commits?author=mitsuhatu" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://shockwave.me/"><img src="https://avatars.githubusercontent.com/u/15013925?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Austaras</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=Austaras" title="Code">💻</a> <a href="https://github.com/toeverything/AFFiNE/commits?author=Austaras" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/uptonking"><img src="https://avatars.githubusercontent.com/u/11391549?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Jin Yao</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=uptonking" title="Code">💻</a> <a href="https://github.com/toeverything/AFFiNE/commits?author=uptonking" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/HeJiachen-PM"><img src="https://avatars.githubusercontent.com/u/79301703?v=4?s=50" width="50px;" alt=""/><br /><sub><b>HeJiachen-PM</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=HeJiachen-PM" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Yipei-Operation"><img src="https://avatars.githubusercontent.com/u/79373028?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Yipei Wei</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=Yipei-Operation" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/fanjing22"><img src="https://avatars.githubusercontent.com/u/109729699?v=4?s=50" width="50px;" alt=""/><br /><sub><b>fanjing22</b></sub></a><br /><a href="#design-fanjing22" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/Svaney-ssman"><img src="https://avatars.githubusercontent.com/u/110808979?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Svaney</b></sub></a><br /><a href="#design-Svaney-ssman" title="Design">🎨</a></td>
-    <td align="center"><a href="http://xell.me/"><img src="https://avatars.githubusercontent.com/u/132558?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Guozhu Liu</b></sub></a><br /><a href="#design-xell" title="Design">🎨</a></td>
-    <td align="center"><a href="https://github.com/fyZheng07"><img src="https://avatars.githubusercontent.com/u/63830919?v=4?s=50" width="50px;" alt=""/><br /><sub><b>fyZheng07</b></sub></a><br /><a href="#eventOrganizing-fyZheng07" title="Event Organizing">📋</a> <a href="#userTesting-fyZheng07" title="User Testing">📓</a></td>
-    <td align="center"><a href="https://github.com/ShortCipher5"><img src="https://avatars.githubusercontent.com/u/4605025?v=4?s=50" width="50px;" alt=""/><br /><sub><b>ShortCipher5</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=ShortCipher5" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/JimmFly"><img src="https://avatars.githubusercontent.com/u/102217452?v=4?s=50" width="50px;" alt=""/><br /><sub><b>JimmFly</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=JimmFly" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/CarlosZoft"><img src="https://avatars.githubusercontent.com/u/62192072?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Carlos Rafael </b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=CarlosZoft" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/caleboleary"><img src="https://avatars.githubusercontent.com/u/12816579?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Caleb OLeary</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=caleboleary" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/westongraham"><img src="https://avatars.githubusercontent.com/u/89493023?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Weston Graham</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=westongraham" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/pointmax"><img src="https://avatars.githubusercontent.com/u/49361135?v=4?s=50" width="50px;" alt=""/><br /><sub><b>pointmax</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=pointmax" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://liby.github.io/notes"><img src="https://avatars.githubusercontent.com/u/38807139?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Bryan Lee</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=liby" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/chenmoonmo"><img src="https://avatars.githubusercontent.com/u/36295999?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Simon Li</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=chenmoonmo" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/githbq"><img src="https://avatars.githubusercontent.com/u/10009709?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Bob Hu</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=githbq" title="Code">💻</a></td>
-    <td align="center"><a href="https://quavo.vercel.app/"><img src="https://avatars.githubusercontent.com/u/67266933?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Quavo</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=lucky-chap" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/LuciNyan"><img src="https://avatars.githubusercontent.com/u/22126563?v=4?s=50" width="50px;" alt=""/><br /><sub><b>子瞻 Luci</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=LuciNyan" title="Code">💻</a></td>
-    <td align="center"><a href="http://blog.ipili.me/"><img src="https://avatars.githubusercontent.com/u/4948120?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Horus</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=m1911star" title="Code">💻</a> <a href="#platform-m1911star" title="Packaging/porting to new platform">📦</a></td>
-    <td align="center"><a href="https://segmentfault.com/u/qzuser_584786517d31a"><img src="https://avatars.githubusercontent.com/u/15103283?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Super.x</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=fanshyiis" title="Code">💻</a></td>
-    <td align="center"><a href="https://wangyu-1999.github.io/"><img src="https://avatars.githubusercontent.com/u/80874770?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Wang Yu</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=wangyu-1999" title="Code">💻</a></td>
-    <td align="center"><a href="https://felixc.at/"><img src="https://avatars.githubusercontent.com/u/1006477?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Felix Yan</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=felixonmars" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/lynettelopez"><img src="https://avatars.githubusercontent.com/u/32908859?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Lynette Lopez</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=lynettelopez" title="Code">💻</a></td>
-    <td align="center"><a href="http://manjusaka.itscoder.com/"><img src="https://avatars.githubusercontent.com/u/7054676?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Manjusaka</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=Zheaoli" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://juejin.cn/user/2867982785579102/posts?sort=popular"><img src="https://avatars.githubusercontent.com/u/76603360?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Frozen FIsh</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=sudongyuer" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/MuhammedFaraz"><img src="https://avatars.githubusercontent.com/u/92734739?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Mohammed Faraz</b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=MuhammedFaraz" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://pranavsriram.dev/"><img src="https://avatars.githubusercontent.com/u/28348429?v=4?s=50" width="50px;" alt=""/><br /><sub><b>Pranav Sriram </b></sub></a><br /><a href="https://github.com/toeverything/AFFiNE/commits?author=Pranav4399" title="Code">💻</a></td>
-  </tr>
-</table>
+We would like to express our gratitude to all the individuals who have already contributed to AFFiNE! If you have any AFFiNE-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-affine](https://github.com/toeverything/awesome-affine).
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
+<a href="https://github.com/toeverything/affine/graphs/contributors">
+  <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
+</a>
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+## Data Compatibility
 
-## Jobs
+Data compatibility is a very important issue for us. We will try our best to ensure that the data is compatible with the previous version.
 
-Some amazing companies including AFFiNE are looking for developers! Are you interested in helping build with AFFiNE and/or its partners? Check out some of the latest [jobs available](./docs/jobs/summary.md).
+If you encounter any problems when upgrading the version, please feel free to [contact us](mailto:developer@toeverything.info).
+
+| AFFiNE Version  | Export/Import workspace | Data auto migration |
+| --------------- | ----------------------- | ------------------- |
+| <= 0.5.4        | ❌️                     | ❌                  |
+| 0.6.x           | ✅️                     | ✅                  |
+| 0.7.x           | ✅️                     | ✅                  |
+| 0.8.x (current) | ✅                      | ✅                  |
+| 0.9.x (next)    | 🚧                      | 🚧                  |
+
+- ❌️: Not compatible
+- ✅: Compatible
+- 🚧: Work in progress
+
+## Self-Host
+
+> We know that the self-host version has been out of date for a long time.
+>
+> We are working hard to get this updated to the latest version, you can try our desktop version first.
+
+Get started with Docker and deploy your own feature-rich, restriction-free deployment of AFFiNE.
+We are working hard to get this updated to the latest version, you can keep an eye on the [latest packages].
+
+## Hiring
+
+Some amazing companies including AFFiNE are looking for developers! Are you interested in helping build with AFFiNE and/or its partners? Check out some of the latest [jobs available].
+
+## Upgrading
+
+For upgrading information, please see our [update page].
+
+## Feature Request
+
+For feature request, please see [community.affine.pro](https://community.affine.pro/c/feature-requests/).
+
+## Building
+
+See [BUILDING.md] for instructions on how to build AFFiNE from source code.
+
+## Contributing
+
+We welcome contributions from everyone.
+See [docs/contributing/tutorial.md](./docs/contributing/tutorial.md) for details.
+
+## Thanks
+
+<a href="https://www.chromatic.com/"><img src="https://user-images.githubusercontent.com/321738/84662277-e3db4f80-af1b-11ea-88f5-91d67a5e59f6.png" width="153" height="30" alt="Chromatic" /></a>
+
+Thanks to [Chromatic](https://www.chromatic.com/) for providing the visual testing platform that helps us review UI changes and catch visual regressions.
 
 ## License
 
-See [LICENSE](/LICENSE) for details.
+See [LICENSE] for details.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftoeverything%2FAFFiNE.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftoeverything%2FAFFiNE?ref=badge_large)
+
+[all-contributors-badge]: https://img.shields.io/github/contributors/toeverything/AFFiNE
+[license]: ./LICENSE
+[building.md]: ./docs/BUILDING.md
+[update page]: https://affine.pro/blog?tag=Release%20Note
+[jobs available]: ./docs/jobs.md
+[latest packages]: https://github.com/toeverything/AFFiNE/pkgs/container/affine-self-hosted
+[contributor license agreement]: https://github.com/toeverything/affine/edit/canary/.github/CLA.md
+[rust-version-icon]: https://img.shields.io/badge/Rust-1.71.0-dea584
+[stars-icon]: https://img.shields.io/github/stars/toeverything/AFFiNE.svg?style=flat&logo=github&colorB=red&label=stars
+[codecov]: https://codecov.io/gh/toeverything/affine/branch/canary/graphs/badge.svg?branch=canary
+[node-version-icon]: https://img.shields.io/badge/node-%3E=18.16.1-success
+[typescript-version-icon]: https://img.shields.io/github/package-json/dependency-version/toeverything/affine/dev/typescript
+[react-version-icon]: https://img.shields.io/github/package-json/dependency-version/toeverything/AFFiNE/react?filename=packages%2Ffrontend%2Fcore%2Fpackage.json&color=rgb(97%2C228%2C251)
+[blocksuite-icon]: https://img.shields.io/github/package-json/dependency-version/toeverything/AFFiNE/@blocksuite/store?color=6880ff&filename=packages%2Ffrontend%2Fcore%2Fpackage.json&label=blocksuite

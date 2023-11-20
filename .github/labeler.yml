@@ -1,0 +1,62 @@
+docs:
+  - 'docs/**/*'
+  - '**/README.md'
+  - 'packages/frontend/templates/**/*'
+
+test:
+  - 'tests/**/*'
+  - '**/tests/**/*'
+  - '**/__tests__/**/*'
+
+mod:dev:
+  - 'scripts/**/*'
+  - 'tools/cli/**/*'
+  - 'packages/common/debug/**/*'
+
+mod:plugin:
+  - 'packages/plugins/**/*'
+
+plugin:copilot:
+  - 'packages/plugins/copilot/**/*'
+
+mod:infra:
+  - 'packages/common/infra/**/*'
+
+mod:sdk:
+  - 'packages/common/sdk/**/*'
+
+mod:plugin-cli:
+  - 'tools/plugin-cli/**/*'
+
+mod:workspace: 'packages/frontend/workspace/**/*'
+
+mod:i18n: 'packages/frontend/i18n/**/*'
+
+mod:env: 'packages/common/env/**/*'
+
+mod:hooks: 'packages/frontend/hooks/**/*'
+
+mod:component: 'packages/frontend/component/**/*'
+
+mod:storage: 'packages/backend/storage/**/*'
+
+mod:native: 'packages/frontend/native/**/*'
+
+mod:store:
+  - '**/atoms/**/*'
+
+rust:
+  - '**/*.rs'
+  - '**/Cargo.toml'
+  - '**/Cargo.lock'
+  - '**/rust-toolchain'
+  - '**/rust-toolchain.toml'
+  - '**/rustfmt.toml'
+
+package:y-indexeddb: 'packages/common/y-indexeddb/**/*'
+
+app:core: 'packages/frontend/core/**/*'
+
+app:electron: 'packages/frontend/electron/**/*'
+
+app:server: 'packages/backend/server/**/*'
